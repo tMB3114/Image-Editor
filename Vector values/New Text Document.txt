@@ -1,0 +1,1 @@
+I have deleted lots of photos that i used for calculating difference vector. But you can use this vectors that I have saved in pandas dataframe. 
